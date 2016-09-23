@@ -13,6 +13,11 @@ alert(s);
 
 Part One: Coding Test
 ------
+Build an address lookup application that takes a postcode and/or a house number and returns the full address details and displays the longitude and latitude on a map
+
+To do this you will use Hermes Apigee Address Lookup API. The specification is detailed below
+
+https://hermes-test.apigee.net/v1/address/{postcode}/{house}?apikey={apikey}
 
 
 Part Two: Technical Questions
