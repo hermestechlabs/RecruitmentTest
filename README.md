@@ -11,15 +11,22 @@ var s = "JavaScript syntax highlighting";
 alert(s);
 ```
 
-Part One: Coding Test
+Part One: Hermes Tech Lab Jam
 ------
-Build an address lookup application that takes a postcode and/or a house number and returns the full address details and displays the longitude and latitude on a map
+Build an address lookup application or app that takes a postcode and/or a house number and returns the full address details and displays the longitude and latitude on a map.
 
-To do this you will use Hermes Apigee Address Lookup API. The specification is detailed below
+To do this you will use the Hermes Address Lookup API. The specification is detailed below:
 
+# Hermes Postal Addresses for a single postcode
+
+To returns a list of addresses for a postcode.GET https://api.getAddress.io/v2/uk/{postcode} 
 ```
-https://hermes-test.apigee.net/v1/address/{postcode}/{house}?apikey={apikey}
+GET https://hermes-test.apigee.net/v1/address/{postcode}/{house}?apikey={apikey}
 ```
+| Name       | Required           | Cool  |
+| ------------- |:-------------:| -----:|
+| apikey      | yes | $1600 |
+
 
 Your api key is:
 
