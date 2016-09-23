@@ -23,9 +23,9 @@ To returns a list of addresses for a postcode.GET https://api.getAddress.io/v2/u
 ```
 GET https://hermes-test.apigee.net/v1/address/{postcode}/{house}?apikey={apikey}
 ```
-| Name       | Required           | Cool  |
+| Name       | Required           | Description  |   Type |
 | ------------- |:-------------:| -----:|
-| apikey      | yes | $1600 |
+| apikey      | yes | Your allocated api key | text |
 
 
 Your api key is:
