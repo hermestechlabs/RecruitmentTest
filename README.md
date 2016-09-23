@@ -21,6 +21,14 @@ To do this you will use Hermes Apigee Address Lookup API. The specification is d
 https://hermes-test.apigee.net/v1/address/{postcode}/{house}?apikey={apikey}
 ```
 
+Your api key is:
+
+```
+SUzeWOQSyvYmHtNpE60uryI4NDGNHSBk
+```
+
+
+
 Part Two: Technical Questions
 ------
 
