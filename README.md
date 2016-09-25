@@ -2,10 +2,10 @@
 
 Thank you for taking the time to do our technical test. It consists of two parts:
 
-* Part One: The Hermes Tech Lab Jam
+* [Part One: The Hermes Tech Lab Jam]
 * Part Two: Some technical questions
 
-Part One: Hermes Tech Lab Jam
+Part One: The Hermes Tech Lab Jam
 ------
 
 #### Allocated time: 3 hours
