@@ -29,7 +29,10 @@ Your api key is:
 ```
 SUzeWOQSyvYmHtNpE60uryI4NDGNHSBk
 ```
-
+Examples Request:
+```
+GET https://hermes-test.apigee.net/v1/address/LS1 4PR?apikey=SUzeWOQSyvYmHtNpE60uryI4NDGNHSBk
+```
 Example Response:
 
 ```
