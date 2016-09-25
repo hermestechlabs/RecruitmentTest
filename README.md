@@ -53,9 +53,7 @@ You can create the application as either a web application or mobile application
 Java, PHP, Ruby, Python. Node.js or JavaScript for web applications
 iOS, Android or Windows Mobile for mobile applications or HTML5, CSS3 and JavaScript for hybrid mobile
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="http://www.hermestechlabs.com/assets/rocket.png" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<img src="http://www.hermestechlabs.com/assets/rocket.png" />
 
 Part Two: Technical Questions
 ------
