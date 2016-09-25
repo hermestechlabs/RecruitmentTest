@@ -33,7 +33,15 @@ SUzeWOQSyvYmHtNpE60uryI4NDGNHSBk
 Example Response:
 
 ```
-
+{
+  "Latitude": 53.7958984375,
+  "Longitude": -1.5486608743667603,
+  "Addresses": [
+    "1 Aire Street, , , , , Leeds, West Yorkshire",
+    "2 Aire Street, , , , , Leeds, West Yorkshire",
+    "3 Aire Street, , , , , Leeds, West Yorkshire"
+  ]
+}
 ```
 
 
