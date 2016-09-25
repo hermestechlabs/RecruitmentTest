@@ -11,7 +11,7 @@ The task is to create an address application or a mobile app that allows the use
 
 To do this you will use the Hermes Address Lookup API. The specification is detailed below:
 
-# Hermes Postal Addresses for a single postcode
+### Hermes Postal Addresses for a single postcode
 
 To returns a list of addresses for a postcode.
 
