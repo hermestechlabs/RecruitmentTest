@@ -19,7 +19,7 @@ To do this you will use the Hermes Address Lookup API. The specification is deta
 
 # Hermes Postal Addresses for a single postcode
 
-To returns a list of addresses for a postcode.GET https://api.getAddress.io/v2/uk/{postcode} 
+To returns a list of addresses for a postcode.
 ```
 GET https://hermes-test.apigee.net/v1/address/{postcode}/{house}?apikey={apikey}
 ```
