@@ -35,7 +35,7 @@ Examples Request:
 ```
 GET https://hermes-test.apigee.net/v1/address/LS1 4PR?apikey=SUzeWOQSyvYmHtNpE60uryI4NDGNHSBk
 ```
-Example Response:
+Example 200 Response:
 
 ```
 {
@@ -48,6 +48,13 @@ Example Response:
   ]
 }
 ```
+| Name       | Description      | Type  |  
+| ------------- | ------------- | ----- | 
+| Latitude      | yes | Your allocated api key | 
+| Longitude     | yes | Your allocated api key | 
+| Addresses      | yes | Your allocated api key |
+
+
 ### Platform Choice
 
 You can create the application as either a web application or mobile application in any of the following platforms:
@@ -56,13 +63,30 @@ You can create the application as either a web application or mobile application
 * iOS, Android or Windows Mobile for mobile applications 
 * HTML5, CSS3 and JavaScript for hybrid mobile
 
-###Task requirements
+### Task Requirements
 
-The following requirements need to be met:
-
-Please complete the user story below.
+Please complete the user stories below.
 Your code should compile and run in one step.
 Feel free to use whatever frameworks / libraries / packages you like.
+
+#### User Story
+
+As a user running the application...
+* I can view a list of addresses in a user submitted postcode. For example, LS1 4PR
+* So that I know which address are within the postcode I specifiy
+
+As a user running the application...
+* I can select an address from the results retrieved and view the full address
+So that I know exactly the full address for my chosen address
+
+As a user running the application...
+I view my chosen address on a map using the GPS returned in the resultsto find my current postcode to retrieve restaurant results
+So that I dont need to type it in
+
+Acceptance criteria
+
+For the known outcode se19, results are returned
+The Name, Cuisine Types and Rating of the restaurant are displayed
 
 Part Two: Technical Questions
 ------
