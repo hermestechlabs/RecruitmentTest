@@ -7,6 +7,8 @@ Thank you for taking the time to do our technical test. It consists of two parts
 
 Part One: Hermes Tech Lab Jam
 ------
+
+#### Allocated time: 3 hours
 The task is to create an application that accepts a postcode as a search parameter. The application should then return a list of addresses for that postcode. The user should then be able to select one of the addresses from the results list and a map of the selected address is displayed along with the full address details.
 
 To do this you will use the Hermes Address Lookup API. The specification is detailed below:
@@ -50,10 +52,17 @@ Example Response:
 
 You can create the application as either a web application or mobile application in any of the following platforms:
 
-Java, PHP, Ruby, Python. Node.js or JavaScript for web applications
-iOS, Android or Windows Mobile for mobile applications or HTML5, CSS3 and JavaScript for hybrid mobile
+* Java, PHP, Ruby, Python. Node.js or JavaScript for web applications
+* iOS, Android or Windows Mobile for mobile applications 
+* HTML5, CSS3 and JavaScript for hybrid mobile
 
-<img src="http://www.hermestechlabs.com/assets/rocket.png" />
+###Task requirements
+
+The following requirements need to be met:
+
+Please complete the user story below.
+Your code should compile and run in one step.
+Feel free to use whatever frameworks / libraries / packages you like.
 
 Part Two: Technical Questions
 ------
