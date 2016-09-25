@@ -7,13 +7,13 @@ Thank you for taking the time to do our technical test. It consists of two parts
 
 Part One: Hermes Tech Lab Jam
 ------
-The task is to create an address application or a mobile app that allows the user to enter a postcode as a search parameter. The application should then return a a list of addresses for that postcode. The user should then be able to select one of the addresses from the results list and a map of the selected address is displayed along with the full address details.
+The task is to create an application that accepts a postcode as a search parameter. The application should then return a list of addresses for that postcode. The user should then be able to select one of the addresses from the results list and a map of the selected address is displayed along with the full address details.
 
 To do this you will use the Hermes Address Lookup API. The specification is detailed below:
 
 ### Hermes Postal Addresses for a single postcode
 
-To returns a list of addresses for a postcode.
+Returns a list of addresses for a postcode.
 
 Request
 ```
@@ -43,7 +43,12 @@ Example Response:
   ]
 }
 ```
+### Platform Choice
 
+You can create the application as either a web application or mobile application in any of the following platforms:
+
+Java, PHP, Ruby, Python. Node.js or JavaScript for web applications
+iOS, Android or Windows Mobile for mobile applications or HTML5, CSS3 and JavaScript for hybrid mobile
 
 Part Two: Technical Questions
 ------
