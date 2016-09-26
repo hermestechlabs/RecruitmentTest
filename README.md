@@ -74,15 +74,15 @@ Feel free to use whatever frameworks / libraries / packages you like.
 #### User Story
 
 As a user running the application...
-* I can view a list of addresses in a user submitted postcode. For example, LS1 4PR
-* So that I know which address are within the postcode I specifiy
+* I can enter a psotcode and view a list of addresses for my specified postcode. For example, LS1 4PR
+* So that I know which address are within the postcode I have specified
 
 As a user running the application...
-* I can select an address from the results retrieved and view the full address
-So that I know exactly the full address for my chosen address
+* I can select an address from the results retrieved and view the full address details
+* So that I know exactly the full address for my chosen address
 
-As a user running the application...
-I view my chosen address on a map using the GPS returned in the resultsto find my current postcode to retrieve restaurant results
+Bonus As a user running the application...
+* I view my chosen address on a map using the GPS returned in the resultsto find my current postcode to retrieve restaurant results
 So that I dont need to type it in
 
 Acceptance criteria
