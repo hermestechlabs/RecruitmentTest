@@ -2,7 +2,7 @@
 
 Thank you for taking the time to do our technical test. It consists of two parts:
 
-* Part One: The Hermes Tech Lab Jam (To prepare in advance of your interview)
+* Part One: The Hermes Tech Lab Jam (**to prepare in advance of your interview**)
 * Part Two: Interview questions (on the day of the interview)
 
 Part One: The Hermes Tech Lab Jam (to be prepared in advance)
