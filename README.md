@@ -81,18 +81,11 @@ As a user running the application...
 * I can select an address from the results retrieved and view the full address details
 * So that I know exactly the full address for my chosen address
 
-Bonus As a user running the application...
-* I view my chosen address on a map using the GPS returned in the resultsto find my current postcode to retrieve restaurant results
-So that I dont need to type it in
+**Bonus** As a user running the application...
+* I view my chosen address on a map using the GPS (lon/ lat co-ords) returned in the result
+* So that I can find my address on a map
 
-Acceptance criteria
 
-For the known outcode se19, results are returned
-The Name, Cuisine Types and Rating of the restaurant are displayed
 
 Part Two: Technical Questions
 ------
-
-
-API key
-tyElc9AiYEC-2ojG_brpXg5734
