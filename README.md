@@ -8,10 +8,15 @@ Thank you for taking the time to do our technical test. It consists of two parts
 Part One: The Hermes Tech Lab Jam
 ------
 
-#### Allocated time: 3 hours
-The task is to create an application that accepts a postcode as a search parameter. The application should then return a list of addresses for that postcode. The user should then be able to select one of the addresses from the results list and a map of the selected address is displayed along with the full address details.
+#### Allocated time: 3 hours + 15 mins presenting back your solution
 
-To do this you will use the Hermes Address Lookup API. The specification is detailed below:
+The business problem you are trying to solve is as follows:
+
+Couriers sometimes receive parcels with incomplete labels. The postocde is present on the label but the address details are incomplete and so they need to be able to retrieve the full address to allow them to deliver the parcel.  
+
+The task is develop an application that solves the problem for the courier.
+
+To help you we have developed a Hermes Address Lookup API. The specification is detailed below:
 
 ### Hermes Postal Addresses for a single postcode
 
@@ -59,11 +64,10 @@ Example 200 Response:
 
 ### Platform Choice
 
-You can create the application as either a web application or mobile app in any of the following platforms:
+You can can use whatever platform, 3rd party librarties you want to bring this to life.
 
-* Java, PHP, Ruby, Python. Node.js or JavaScript for web applications
-* iOS, Android or Windows Mobile for mobile applications 
-* HTML5, CSS3 and JavaScript for hybrid mobile
+We're looking for creativity here.
+
 
 ### Task Requirements
 
@@ -85,6 +89,7 @@ As a user running the application...
 * I view my chosen address on a map using the GPS (lon/ lat co-ords) returned in the result
 * So that I can find my address on a map
 
+### Presenting
 
 
 Part Two: Technical Questions
