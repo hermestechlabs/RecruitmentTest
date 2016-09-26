@@ -5,10 +5,10 @@ Thank you for taking the time to do our technical test. It consists of two parts
 * Part One: The Hermes Tech Lab Jam
 * Part Two: Some technical questions
 
-Part One: The Hermes Tech Lab Jam
+Part One: The Hermes Tech Lab Jam (to be prepared in advance)
 ------
 
-#### Allocated time: 3 hours + 15 mins presenting back your solution
+#### Allocated time: On the day of the interview 30mins to showcase your solution
 
 The business problem you are trying to solve is as follows:
 
@@ -74,7 +74,8 @@ We're looking for creativity here.
 You will have 30mins at the interview to walk through your solution and answer questions
 
 
-Part Two: Interview Questions - 1 hour
-
-We will ask you a series of questions
+Part Two: Interview Questions (on the day of the interview). Duration 1 hour
 ------
+
+We will ask you a series of questions to find out more about you and what makes you tick.
+
