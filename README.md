@@ -69,7 +69,7 @@ We're looking for creativity here.
 
 ### Presenting
 
-You will have 30mins at the interview to walk through your solution and answer questions
+You will have 30mins at the interview to walk through your solution and answer questions.
 
 
 Part Two: Interview Questions (on the day of the interview). Duration 1 hour
