@@ -64,33 +64,17 @@ Example 200 Response:
 
 ### Platform Choice
 
-You can can use whatever platform, 3rd party librarties you want to bring this to life.
+Feel free to use whatever frameworks / libraries / packages you like.
 
 We're looking for creativity here.
 
 
-### Task Requirements
-
-Please complete the user stories below.
-Your code should compile and run in one step.
-Feel free to use whatever frameworks / libraries / packages you like.
-
-#### User Story
-
-As a user running the application...
-* I can enter a psotcode and view a list of addresses for my specified postcode. For example, LS1 4PR
-* So that I know which address are within the postcode I have specified
-
-As a user running the application...
-* I can select an address from the results retrieved and view the full address details
-* So that I know exactly the full address for my chosen address
-
-**Bonus** As a user running the application...
-* I view my chosen address on a map using the GPS (lon/ lat co-ords) returned in the result
-* So that I can find my address on a map
-
 ### Presenting
 
+You will have 30mins at the interview to walk through your solution and answer questions
 
-Part Two: Technical Questions
+
+Part Two: Interview Questions - 1 hour
+
+We will ask you a series of questions
 ------
