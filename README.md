@@ -55,12 +55,10 @@ Example 200 Response:
 ```
 | Name       | Description      | Type  |  
 | ------------- | ------------- | ----- | 
-| Latitude      | Coordinate that specifies the north–south position of specified postcode | text | 
-| Longitude     | Coordinate that specifies the east–west position of specified postcode | text | 
-| Addresses      | A list of 1..n address in the specified postcode | array |
-| Address      | an address contained in the array addresses | array |
-| Address[0]      | first line of address | text |
-
+| Latitude      | Coordinate that specifies the north–south position of specified postcode | Number | 
+| Longitude     | Coordinate that specifies the east–west position of specified postcode | Number | 
+| Addresses      | A list of 1..n address in the specified postcode | Array |
+| Address      | an address contained in a comma-delimited string representing address lines 1 to5, City, County | String |
 
 ### Platform Choice
 
