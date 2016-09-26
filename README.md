@@ -59,7 +59,7 @@ Example 200 Response:
 
 ### Platform Choice
 
-You can create the application as either a web application or mobile application in any of the following platforms:
+You can create the application as either a web application or mobile app in any of the following platforms:
 
 * Java, PHP, Ruby, Python. Node.js or JavaScript for web applications
 * iOS, Android or Windows Mobile for mobile applications 
